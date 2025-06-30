@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523847778061",
+    "firebase_url": "https://oneupnoobs-59d99-default-rtdb.firebaseio.com",
+    "project_id": "oneupnoobs-59d99",
+    "storage_bucket": "oneupnoobs-59d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523847778061:android:d1f1ada960338546fafa44",
+        "android_client_info": {
+          "package_name": "com.oneupnoobs.tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523847778061-440q6cue7v2d993ghued5kdlvq502l0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVhRP6RaF_UANGLjQk4Heypzfp17XVj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523847778061-440q6cue7v2d993ghued5kdlvq502l0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523847778061-rj5lo7vg9e1jbl2kclp2epmoil91vvjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oneupNoobs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
